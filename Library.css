@@ -1,0 +1,9 @@
+.document-dock{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:14px;
+
+}

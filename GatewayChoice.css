@@ -1,0 +1,49 @@
+.gateway-choice{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#f5f7fb;
+}
+
+.gateway-card{
+    width:520px;
+    background:#fff;
+    border-radius:16px;
+    padding:40px;
+    box-shadow:0 12px 35px rgba(0,0,0,.12);
+    text-align:center;
+}
+
+.gateway-card h2{
+    margin-bottom:12px;
+    color:#12355b;
+}
+
+.gateway-card p{
+    margin-bottom:24px;
+    color:#666;
+}
+
+.gateway-card button{
+    width:100%;
+    margin:10px 0;
+    padding:14px;
+    border:none;
+    border-radius:10px;
+    background:#12355b;
+    color:#fff;
+    font-size:15px;
+    cursor:pointer;
+}
+
+.gateway-card button:hover{
+    background:#0e2b49;
+}
+
+.gateway-card small{
+    display:block;
+    margin-top:20px;
+    color:#777;
+    line-height:1.6;
+}

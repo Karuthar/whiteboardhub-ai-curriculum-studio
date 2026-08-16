@@ -1,0 +1,9 @@
+export default function Workspace() {
+    return (
+        <section className="right-panel">
+
+            Workspace Placeholder
+
+        </section>
+    );
+}

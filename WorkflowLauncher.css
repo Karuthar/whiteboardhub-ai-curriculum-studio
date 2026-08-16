@@ -1,0 +1,85 @@
+.workflow-launcher{
+
+height:100vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+background:#eef3fa;
+
+}
+
+.launcher-card{
+
+width:500px;
+
+background:white;
+
+padding:40px;
+
+border-radius:16px;
+
+box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+display:grid;
+
+gap:15px;
+
+}
+
+.launcher-card h1{
+
+margin:0;
+
+color:#12355b;
+
+}
+
+.launcher-card p{
+
+margin-bottom:20px;
+
+}
+
+.launcher-card label{
+
+font-weight:bold;
+
+}
+
+.launcher-card input,
+
+.launcher-card select{
+
+padding:12px;
+
+font-size:15px;
+
+border-radius:8px;
+
+border:1px solid #cbd5e1;
+
+}
+
+.launcher-card button{
+
+margin-top:15px;
+
+height:48px;
+
+background:#12355b;
+
+color:white;
+
+border:none;
+
+border-radius:10px;
+
+font-size:16px;
+
+cursor:pointer;
+
+}
